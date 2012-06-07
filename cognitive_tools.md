@@ -77,7 +77,54 @@ that _motivational hacks_ are the key thing here.
  everything then that's a reasonable point of view.  But _Avatar_ has
  astounding non-verbal content, and those people largely missed that
  content, or else got hung up on details.
-    
+
+
+# Mental Models / User Model
+
+**What is a mental model?** A mental model is a representation of a
+user's understanding of a particular concept.  It's the resource in
+our minds that we reference to answer questions about something.  For
+example, one can have a mental a model of how a database works.
+It's also possible to have a mental model of a mental model, e.g. my
+mental model of my mental model of how a database works.  Further
+recursion possible, but overly-complex.
+
+**What is a user model?** A user model can be thought of as a
+collection of mental models of a particular user.  A user model aims
+to answer the general question "What does the system know about the
+user?"  Or, "What does the user know?  What experiences has she had?"
+
+**What is the relationship between mental model and cognitive tools?**
+In order for a cognitive tool to be effective, the system should have
+an understanding of what the user knows, so the system can _adapt_ to
+the user. A cognitive assistance
+system empowered with mental models of its users can aid in
+collaboration, putting the right individuals in touch and routing the
+right problems to the right individuals at the right time, nailing
+_allocation of expertise_.
+
+**What is a useful user model?** The simplest user model is a vector
+of words that describe a user's knowledge/interests. We can do simple
+word vector dot products to determine similarity to other entities'
+and other users' vector models.  However, this representation misses
+out on dimensions such as time and depth of understanding.  The model
+need not become to complex else risk a sort of _overfitting_, but
+there are many possibilities if the right interface is developed.
+
+**How do you teach a cognitive system a user's mental models?**
+_Bad but thorough_:
+Require the user to manually supply a semantically annotated
+representation of everything they know, perhaps through filling out a
+database. Think expert systems.  The arduous nature of such a
+requirement has low chance of adoption.
+_Good_:  Provide an incentive for the user to do work in the system,
+e.g. a note-taking application, that allows for a limited amount of
+semantic interaction.  As the user uses the application more, he is
+rewarded with recommendations.  Eventually the system becomes a viable
+platform for collaboration, connecting users to each other, to
+problems, and connecting problems to the right users.
+
+
 # Writing as a cognitive tool
 
 **What is it about writing that makes writing powerful as a tool for
