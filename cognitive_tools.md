@@ -112,6 +112,8 @@ need not become to complex else risk a sort of _overfitting_, but
 there are many possibilities if the right interface is developed.
 
 **How do you teach a cognitive system a user's mental models?**
+Cognitive tools with a _machine-understandable_ representation of the
+user's mental models could do powerful things.
 _Bad but thorough_:
 Require the user to manually supply a semantically annotated
 representation of everything they know, perhaps through filling out a
@@ -181,6 +183,24 @@ One interesting cognitive technology is the index.
 
 **The pattern: Cognitive technologies break bottlenecks in our
   brain:**
+
+**Indices as a means of externalizing mental models:**
+Individuals across domains of pursuits would benefit from a
+dyanmically-updating index into everything they've read and every
+project that they have going on.  This not only serves the purpose of
+recall, but also makes progress toward the goal of externalizing our
+mental models into a machine-understandable form.  And as mentioned
+before, externalized mental models also open the door to
+targeted collaboration.
+
+**Email inboxes as indices:** For many of us, our
+email inbox contains a record of most of our business and can be
+searched to find information.  This is particularly true for Gmail,
+whose interface is geared toward search.  And while working at Google,
+I found that your inbox basically became your externalized mind, as
+everyone was subscribed to countless lists, with emails coming from
+humans an automated systems but hidden behind filters.  The first
+place you would go when you had a question was your email inbox.
 
 # Ideas about how to make people smarter and more effective
 
