@@ -254,6 +254,21 @@ we think.
   that I should feel free to **re-examine the basics**, and to
   **identify (and then challenge) conventional wisdom**.
 
+**Are our minds machines that can be debugged?** Marvin Minsky
+  introduces this notion in his essays on education for One Laptop
+  Per Child. For example, in
+  [OLPC Memo 3](http://web.media.mit.edu/~minsky/OLPC-3.html),
+  Minsky suggests that what is missing from schools is _teaching
+  children good ways to think about thinking_.  He admits that
+  psychology remains a soft science and we have not found adequate
+  axioms for this to be a subject in schools, but there is something
+  core to the reflective/creative ways that, say, scientists and
+  engineers are associated with, and those should be stressed, even
+  more so than the content itself.  Of course, we should all aim for
+  expertise in something, and hence we need passion for topics which
+  can only arise from exposure to content.
+
+
 # Dealing with abstraction
 
 **How to deal with abstraction?** _finding multiple representations_,
